@@ -1,4 +1,4 @@
-## Привет, я Ира — аналитик данных 👋
+### Привет, я Ира — аналитик данных 👋
 
 🎓 Закончила курс от Яндекс.Практикума. 
 
@@ -6,12 +6,19 @@
 
 💬 Связаться со мной в [телеграм](t.me/irashtelm).
 
-💪 Стек: 
+---
+
+#### Стек: 
 <!-- иконки стека -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Java" alt="Java" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="Java" alt="Java" height="30"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="Java" alt="Java" height="30"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" title="Java" alt="Java" height="30"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/373589/excel.svg" title="Java" alt="Java" height="30"/>&nbsp; 
 </div>
+
+
+---
 
 <!-- гифка -->
 <div align="left">
